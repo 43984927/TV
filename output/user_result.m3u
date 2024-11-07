@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2024-11-07 19:01:09" tvg-logo="https://live.fanmingming.com/tv/2024-11-07 19:01:09.png" group-title="更新时间",2024-11-07 19:01:09
+#EXTINF:-1 tvg-name="2024-11-07 19:07:34" tvg-logo="https://live.fanmingming.com/tv/2024-11-07 19:07:34.png" group-title="更新时间",2024-11-07 19:07:34
 url
 #EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/鳳凰中文.png" group-title="📡AKTV频道",鳳凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
@@ -123,6 +123,8 @@ http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd
 #EXTINF:-1 tvg-name="安徽综艺体育" tvg-logo="https://live.fanmingming.com/tv/安徽综艺体育.png" group-title="🏀体育频道",安徽综艺体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
+#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="🪁动画频道",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="CCTV1 综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1 综合.png" group-title="🈳无结果频道",CCTV-1 综合
 url
 #EXTINF:-1 tvg-name="CCTV2 财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2 财经.png" group-title="🈳无结果频道",CCTV-2 财经
@@ -596,8 +598,6 @@ url
 #EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://live.fanmingming.com/tv/炫动卡通.png" group-title="🈳无结果频道",炫动卡通
 url
 #EXTINF:-1 tvg-name="24H国漫热播" tvg-logo="https://live.fanmingming.com/tv/24H国漫热播.png" group-title="🈳无结果频道",24H国漫热播
-url
-#EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="🈳无结果频道",浙江少儿
 url
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教.png" group-title="🈳无结果频道",河北少儿科教
 url
